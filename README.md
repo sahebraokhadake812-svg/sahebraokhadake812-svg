@@ -1,13 +1,15 @@
 # sahebrao khadake
 
-### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
+### Your tagline here — "Computer Engineering | Polytechnic student | Python learner"
 
 ---
 
 ## About Me
 
-My name is sahebrao , and I am 20 years old.I live in lavhalwadi with my family & lavhalwadi village is a trending village.I study in 3rd year of diploma in engineering at faculty of polytechnic akole .My favorite subjects are python and other java.I love spending time with my parents, siblings, and friends.
+★ My name is Sahebrao Khadake, and I am from Lavhalwadi. ★ My hobbies include reading books, listening to music, and playing cricket.
+★ I would describe myself as a hardworking and self-motivated individual I am confident in my communication skills and time management abilities, and I always strive to maintain a positive and professional attitude.
 
+That's all about me.
 ---
 
 ## Skills
@@ -31,12 +33,12 @@ My name is sahebrao , and I am 20 years old.I live in lavhalwadi with my family 
 
 ## Goals
 
-- What do you want to learn next? (be specific — e.g. "learn Python file I/O")
-- What project do you want to build?
-- Any other goal...
+- What do you want to learn next? ( "learn Python current year")
+- & later Complete my Computer engineering.
+- Other give skills.
 
 ---
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/your-handle) · [Email](sahebraokhadake812@gmail.com)
