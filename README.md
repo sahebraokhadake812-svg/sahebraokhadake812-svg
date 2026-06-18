@@ -42,5 +42,5 @@ That's all about me.
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](sahebraokhadake812@gmail.com)
-[Instagram](_sahebrao_xo)
+[LinkedIn](https://linkedin.com/in/your-handle) / [Email](sahebraokhadake812@gmail.com) /
+[Instagram](_sahebrao_xo) / [WhatsApp](8149621449)
