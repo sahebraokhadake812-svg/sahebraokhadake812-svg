@@ -1,4 +1,4 @@
-# Your Name Here
+# sahebrao khadake
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
+My name is sahebrao , and I am 20 years old.I live in lavhalwadi with my family & lavhalwadi village is a trending village.I study in 3rd year of diploma in engineering at faculty of polytechnic akole .My favorite subjects are python and other java.I love spending time with my parents, siblings, and friends.
 
 ---
 
