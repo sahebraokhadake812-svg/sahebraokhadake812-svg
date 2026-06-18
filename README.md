@@ -6,11 +6,9 @@
 
 ## About Me
 
-★ My name is Sahebrao Khadake, 
-and I am from Lavhalwadi. 
-★ My hobbies include reading books,
-listening to music, and playing cricket.
-★ I would describe myself as a hardworking and self-motivated individual I am confident in my communication skills and time management abilities, and I always strive to maintain a positive and professional attitude.
+- My name is Sahebrao Khadake,and I am from Lavhalwadi. 
+- My hobbies include reading books,listening to music, and playing cricket.
+- I would describe myself as a hardworking and self-motivated individual I am confident in my communication skills and time management abilities, and I always strive to maintain a positive and professional attitude.
 
 That's all about me.
 ---
