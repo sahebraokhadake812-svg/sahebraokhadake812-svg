@@ -1,62 +1,20 @@
-#  👋 Hi, I'm SAHEBRAO 🚀
+<h1 align="center">Hi 👋, I'm SAHEBRAO</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Data Engineering • Python • 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahebraokhadake812-svg&label=Profile%20views&color=0e75b6&style=flat" alt="sahebraokhadake812-svg" /> </p>
 
-🚀 Passionate about technology and innovation.
+- 🌱 I’m currently learning **Python codes & java**
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 📫 How to reach me **sahebraokhadake812@gmail.com**
 
-![Gif](https://user-images.gi...)![gif](https://raw.githubusercontent.com/user/repo/main/gif.gif)
+- ⚡ Fun fact **💗**
 
-⭐ Welcome to my GitHub profile!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_sahebrao_xo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahebrao_xo" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Your tagline here — "Computer Engineering | Polytechnic student | Python learner"
-
----
-
-## About Me
-
-* ↩️ My name is Sahebrao Khadake,and I am from Lavhalwadi Akole Ahilyanagar. 
-* 🎓 Engineering Student
-* 🌱 Currently learning Python & Web Development
-* 💡 Interested in AI, Coding & Open Source
-* ⚡ Fun Fact: I love solving coding challenges
-
-* ↩️ That's all about me.
----
-
-## Skills
-
-| Skill        | Level        |
-|--------------|--------------|
-| Python       | Beginner     |
-| Git & GitHub | Beginner     |
-| Markdown     | Beginner     |
-| Add more...  | ...          |
-
----
-
-## Current Projects
-
-- **Grade Buddy** — a command-line app that tracks test scores and generates a report card.
-- **GitHub Profile** — this very page, my first Markdown website.
-- Add more if you have them...
-
----
-
-## Goals
-
-- What do you want to learn next? ( "learn Python current year")
-- & later Complete my Computer engineering.
-- Other give skills.
-
----
-##![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-## Find Me
-
-[LinkedIn](https://linkedin.com/in/your-handle) / [Email](sahebraokhadake812@gmail.com) /
-[Instagram](_sahebrao_xo) / [WhatsApp](8149621449)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebraokhadake812-svg&" alt="sahebraokhadake812-svg" /></p>
