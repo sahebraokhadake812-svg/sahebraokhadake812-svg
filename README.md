@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Gif](https://user-images.gi...)
+![Gif](https://user-images.gi...)![gif](https://raw.githubusercontent.com/user/repo/main/gif.gif)
 
 ⭐ Welcome to my GitHub profile!
 
