@@ -1,8 +1,16 @@
-# ███████  █████  ██   ██ ███████ ██████  ██████   █████   ██████  
-██      ██   ██ ██   ██ ██      ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ███████ ███████ █████   ██████  ██████  ███████ ██    ██ 
-     ██ ██   ██ ██   ██ ██      ██   ██ ██   ██ ██   ██ ██    ██ 
-███████ ██   ██ ██   ██ ███████ ██████  ██   ██ ██   ██  ██████  
+# # 👋 Hi, I'm SAHEBRAO
+
+### Data Engineering • Python • Automation • Blockchain
+
+🚀 Passionate about technology and innovation.
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+⭐ Welcome to my GitHub profile!
 
 
 ### Your tagline here — "Computer Engineering | Polytechnic student | Python learner"
