@@ -18,9 +18,11 @@
 
 ## About Me
 
-* ↩️ My name is Sahebrao Khadake,and I am from Lavhalwadi tel. Akole dist. ahilyanagar. 
-* ↩️ My hobbies include reading books,listening to music, and playing cricket.
-* ↩️ I would describe myself as a hardworking and self-motivated individual I am confident in my communication skills and time management abilities, and I always strive to maintain a positive and professional attitude.
+*↩️ My name is Sahebrao Khadake,and I am from Lavhalwadi Akole Ahilyanagar. 
+* 🎓 Engineering Student
+*🌱 Currently learning Python & Web Development
+*💡 Interested in AI, Coding & Open Source
+*⚡ Fun Fact: I love solving coding challenges
 
 * ↩️ That's all about me.
 ---
