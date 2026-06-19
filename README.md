@@ -50,7 +50,9 @@
 - Other give skills.
 
 ---
+##![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
+---
 ## Find Me
 
 [LinkedIn](https://linkedin.com/in/your-handle) / [Email](sahebraokhadake812@gmail.com) /
