@@ -18,11 +18,11 @@
 
 ## About Me
 
-*↩️ My name is Sahebrao Khadake,and I am from Lavhalwadi Akole Ahilyanagar. 
+* ↩️ My name is Sahebrao Khadake,and I am from Lavhalwadi Akole Ahilyanagar. 
 * 🎓 Engineering Student
-*🌱 Currently learning Python & Web Development
-*💡 Interested in AI, Coding & Open Source
-*⚡ Fun Fact: I love solving coding challenges
+* 🌱 Currently learning Python & Web Development
+* 💡 Interested in AI, Coding & Open Source
+* ⚡ Fun Fact: I love solving coding challenges
 
 * ↩️ That's all about me.
 ---
