@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebraokhadake812-svg&" alt="sahebraokhadake812-svg" /></p>
 
-<p align="right">img src="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq? username=sahebraokhadake812-svg&label=Profile%20views&color=0e75b6&style=flat" alt="sahebraokhadake812-svg" /></p>
+<p align="right">img src="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq? username=sahebraokhadake812-svg&label=Profile%20views&color=0e75b6&style=flat" alt="sahebraokhadake812-svg"/></p>
