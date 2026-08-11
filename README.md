@@ -21,13 +21,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Spend my time in this week</h3>
+<h3 align="left">Spend my time in this week</h3>
 
-TypeScript   4 hrs 21 mins         ███████████████████░░░░░░   76.58 %
-Other        58 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-JavaScript   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-CSS          5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   4 hrs 21 mins   <br>      ███████████████████░░░░░░   76.58 %<br>
+Other        58 mins      <br>         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %<br>
+JavaScript   15 mins           <br>    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %<br>
+CSS          5 mins        <br>        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %<br>
+TSConfig     0 secs         <br>       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %<br>
 
 <h3 align="left">🚀Game Mode</h3><img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="python" width="auto" height="auto"/>
 
