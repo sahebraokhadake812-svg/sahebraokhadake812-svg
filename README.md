@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="file_00000000c2108211b8ad046a24fc4d76" src="https://github.com/user-attachments/assets/9a71a054-fc62-40e9-8932-7ed82503cb75" /><br><br>
 <h1 align="center">Hi 👋, I'm SAHEBRAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -21,5 +22,3 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebraokhadake812-svg&" alt="sahebraokhadake812-svg" /></p>
-
-<p align="right"><img src="https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq?username=sahebraokhadake812-svg&label=Profile%20views&color=0e75b6&style=flat" alt="sahebraokhadake812-svg"/></p>
