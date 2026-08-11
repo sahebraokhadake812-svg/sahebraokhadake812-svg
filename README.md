@@ -21,7 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Spend my time in this week</h3>
+<h3 align="center">Spend my time in this week</h3>
+
 TypeScript   4 hrs 21 mins         ███████████████████░░░░░░   76.58 %
 Other        58 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
 JavaScript   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
@@ -32,4 +33,4 @@ TSConfig     0 secs                ░░░░░░░░░░░░░░░
 
 
 <h3 align="left">📈GitHub Stat<h3> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebraokhadake812-svg&" alt="sahebraokhadake812-svg" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahebraokhadake812-svg&" alt="sahebraokhadake812-svg" />
