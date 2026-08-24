@@ -36,7 +36,10 @@
 📦 Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahebraokhadake812-svg&theme=nightowl&hide_border=true&area=true" width="100%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"
+    width="70%"
+  />
 </p>
 
 💻 Language Stats
