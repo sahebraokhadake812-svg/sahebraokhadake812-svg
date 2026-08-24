@@ -34,14 +34,14 @@ TSConfig     0 secs         <br>       ░░░░░░░░░░░░░�
 <h3 align="left">🚀Game Mode</h3><img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="python" width="auto" height="auto"/>
 
 
-<h1 align="left">📈GitHub Stat<h1> 
-  <h4>📈 Contribution Stats</h4>
+<h3 align="left">📈GitHub Stat<h3> 
+📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahebraoKhadake&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahebraokhadake812-svg&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 <h3 align="left">Self Quote</h3>
 Just Me,Being Me 
 
-<h3 align="center">✨Thanks for visiting my profile✨</h3>
-"Code. Learn. Build. Repeat."
+<h3 align="center">✨Thanks for visiting my profile✨<br>
+"Code. Learn. Build. Repeat."</h3>
