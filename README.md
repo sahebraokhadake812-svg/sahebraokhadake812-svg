@@ -1,5 +1,5 @@
 <table>
-  <td>
+  
 <img align width="1983" height="793" alt="file_00000000c2108211b8ad046a24fc4d76" src="https://github.com/user-attachments/assets/000238cf-c251-4169-8c41-b8d08149a305" />
 
 
@@ -51,5 +51,4 @@
 <h3 align="center">✨Thanks for visiting my profile✨<br>
 "Code. Learn. Build. Repeat."</h3>
 
-</td>
 </table>
