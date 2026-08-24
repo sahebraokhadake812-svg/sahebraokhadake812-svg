@@ -39,3 +39,6 @@ TSConfig     0 secs         <br>       ░░░░░░░░░░░░░�
 
 <h3>Self Quote</h3>
 Just Me,Being Me 
+
+<h3>⭐ Thanks for visiting my profile!</h3>
+"Code. Learn. Build. Repeat."
