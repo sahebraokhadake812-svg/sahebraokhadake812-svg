@@ -25,12 +25,6 @@
 
 <h3 align="left">Spend my time in this week</h3>
 
-TypeScript   4 hrs 21 mins   <br>      ███████████████████░░░░░░   76.58 %<br>
-Other        58 mins      <br>         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %<br>
-JavaScript   15 mins           <br>    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %<br>
-CSS          5 mins        <br>        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %<br>
-TSConfig     0 secs         <br>       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %<br>
-
 <h3 align="left">🚀Game Mode</h3><img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="python" width="auto" height="auto"/>
 
 
@@ -44,13 +38,14 @@ TSConfig     0 secs         <br>       ░░░░░░░░░░░░░�
 📦 Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&hide_border=true&theme=tokyo-night&include_all_commits=true&count_private=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" width="70%"/>
 </p>
-<h2>💻 Language Stats</h2>
+
+💻 Language Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebraokhadake812-svg&layout=donut&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebraokhadake812-svg&layout=donut&theme=nightowl&hide_border=true"
     width="45%"
   />
 </p>
