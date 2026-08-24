@@ -36,16 +36,13 @@
 📦 Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&theme=dracula&hide_border=true" width="100%"/>
+  <<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahebraokhadake812-svg&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 💻 Language Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebraokhadake812-svg&layout=donut&theme=nightowl&hide_border=true"
-    width="45%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahebraokhadake812-svg&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <h3 align="left">Self Quote</h3>
