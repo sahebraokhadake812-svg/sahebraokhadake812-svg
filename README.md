@@ -38,7 +38,7 @@
 📦 Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&theme=dracula&hide_border=true" />
 </p>
 
 💻 Language Stats
