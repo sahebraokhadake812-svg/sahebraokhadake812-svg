@@ -40,6 +40,21 @@ TSConfig     0 secs         <br>       ░░░░░░░░░░░░░�
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahebraokhadake812-svg&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
+
+📦 Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahebraokhadake812-svg&show_icons=true&hide_border=true&theme=tokyo-night&include_all_commits=true&count_private=true" width="70%"/>
+</p>
+<h2>💻 Language Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahebraokhadake812-svg&layout=donut&theme=tokyo-night&hide_border=true"
+    width="45%"
+  />
+</p>
+
 <h3 align="left">Self Quote</h3>
 Just Me,Being Me 
 
